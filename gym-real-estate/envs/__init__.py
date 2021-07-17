@@ -1,1 +1,1 @@
-from gym_real-estate.envs.real-estate_env import Real-EstateEnv
+from gym-real-estate.envs.real-estate_env import RealEstateEnv
