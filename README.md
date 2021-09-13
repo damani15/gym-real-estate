@@ -1,1 +1,0 @@
-# gym-real-estate

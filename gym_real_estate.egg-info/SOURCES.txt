@@ -1,7 +1,0 @@
-README.md
-setup.py
-gym_real_estate.egg-info/PKG-INFO
-gym_real_estate.egg-info/SOURCES.txt
-gym_real_estate.egg-info/dependency_links.txt
-gym_real_estate.egg-info/requires.txt
-gym_real_estate.egg-info/top_level.txt
